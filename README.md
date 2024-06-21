@@ -1,4 +1,4 @@
-# Socket-Program-in-Python
+# UDP-Socket-Program-in-Python
 This repository contains a socket-based communication program with separate scripts for the server and client. The client reads text messages from an input file and sends them to the server, which logs the received messages.
 
 ## Features
