@@ -1,0 +1,696 @@
+2024-06-03 17:49:10,101 - Error sending/receiving message:, [Errno 2] No such file or directory: 'messages.txt'
+2024-06-03 17:49:10,101 - Error sending/receiving message:, [Errno 2] No such file or directory: 'messages.txt'
+2024-06-03 17:49:10,101 - Error sending/receiving message:, [Errno 2] No such file or directory: 'messages.txt'
+2024-06-03 17:49:10,102 - Error sending/receiving message:, [Errno 2] No such file or directory: 'messages.txt'
+2024-06-03 17:49:10,102 - Error sending/receiving message:, [Errno 2] No such file or directory: 'messages.txt'
+2024-06-03 17:49:10,103 - Error sending/receiving message:, [Errno 2] No such file or directory: 'messages.txt'
+2024-06-03 17:49:10,104 - Error sending/receiving message:, [Errno 2] No such file or directory: 'messages.txt'
+2024-06-03 17:49:10,104 - Error sending/receiving message:, [Errno 2] No such file or directory: 'messages.txt'
+2024-06-03 17:49:10,104 - Error sending/receiving message:, [Errno 2] No such file or directory: 'messages.txt'
+2024-06-03 17:49:10,104 - Error sending/receiving message:, [Errno 2] No such file or directory: 'messages.txt'
+2024-06-03 17:51:12,188 - Client 0 sent to server (127.0.0.1:5555): Hello!
+2024-06-03 17:51:12,189 - Client 1 sent to server (127.0.0.1:5555): Hello!
+2024-06-03 17:51:12,189 - Client 2 sent to server (127.0.0.1:5555): Hello!
+2024-06-03 17:51:12,189 - Received from ('127.0.0.1', 52899): Hello!
+
+2024-06-03 17:51:12,190 - Received from ('127.0.0.1', 52900): Hello!
+
+2024-06-03 17:51:12,190 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,190 - Client 0 sent to server (127.0.0.1:5555): How are you?
+2024-06-03 17:51:12,190 - Received from ('127.0.0.1', 52901): Hello!
+
+2024-06-03 17:51:12,190 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,190 - Client 4 sent to server (127.0.0.1:5555): Hello!
+2024-06-03 17:51:12,190 - Received from ('127.0.0.1', 52899): How are you?
+
+2024-06-03 17:51:12,190 - Client 2 sent to server (127.0.0.1:5555): How are you?
+2024-06-03 17:51:12,191 - Received from ('127.0.0.1', 52902): Hello!
+
+2024-06-03 17:51:12,191 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,191 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,191 - Received from ('127.0.0.1', 52900): How are you?
+
+2024-06-03 17:51:12,191 - Client 6 sent to server (127.0.0.1:5555): Hello!
+2024-06-03 17:51:12,191 - Client 3 sent to server (127.0.0.1:5555): Hello!
+2024-06-03 17:51:12,192 - Received from ('127.0.0.1', 52903): Hello!
+
+2024-06-03 17:51:12,191 - Client 1 sent to server (127.0.0.1:5555): How are you?
+2024-06-03 17:51:12,192 - Received from ('127.0.0.1', 52904): Hello!
+
+2024-06-03 17:51:12,191 - Client 5 sent to server (127.0.0.1:5555): Hello!
+2024-06-03 17:51:12,191 - Client 0 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-03 17:51:12,192 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,192 - Received from ('127.0.0.1', 52901): How are you?
+
+2024-06-03 17:51:12,192 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,193 - Received from ('127.0.0.1', 52905): Hello!
+
+2024-06-03 17:51:12,192 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,193 - Received from ('127.0.0.1', 52899): How are you doing?
+
+2024-06-03 17:51:12,194 - Received from ('127.0.0.1', 52902): How are you?
+
+2024-06-03 17:51:12,193 - Client 4 sent to server (127.0.0.1:5555): How are you?
+2024-06-03 17:51:12,193 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,193 - Client 2 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-03 17:51:12,194 - Received from ('127.0.0.1', 52900): How are you doing?
+
+2024-06-03 17:51:12,193 - Client 7 sent to server (127.0.0.1:5555): Hello!
+2024-06-03 17:51:12,195 - Received from ('127.0.0.1', 52906): Hello!
+
+2024-06-03 17:51:12,193 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,194 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,195 - Received from ('127.0.0.1', 52907): Hello!
+
+2024-06-03 17:51:12,194 - Client 9 sent to server (127.0.0.1:5555): Hello!
+2024-06-03 17:51:12,194 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,194 - Client 3 sent to server (127.0.0.1:5555): How are you?
+2024-06-03 17:51:12,194 - Client 1 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-03 17:51:12,195 - Received from ('127.0.0.1', 52903): How are you?
+
+2024-06-03 17:51:12,195 - Client 8 sent to server (127.0.0.1:5555): Hello!
+2024-06-03 17:51:12,195 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,195 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,196 - Received from ('127.0.0.1', 52901): How are you doing?
+
+2024-06-03 17:51:12,195 - Client 5 sent to server (127.0.0.1:5555): How are you?
+2024-06-03 17:51:12,195 - Client 6 sent to server (127.0.0.1:5555): How are you?
+2024-06-03 17:51:12,196 - Received from ('127.0.0.1', 52908): Hello!
+
+2024-06-03 17:51:12,195 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,195 - Client 0 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-03 17:51:12,197 - Received from ('127.0.0.1', 52904): How are you?
+
+2024-06-03 17:51:12,196 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,196 - Client 4 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-03 17:51:12,197 - Received from ('127.0.0.1', 52905): How are you?
+
+2024-06-03 17:51:12,196 - Client 7 sent to server (127.0.0.1:5555): How are you?
+2024-06-03 17:51:12,196 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,196 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,196 - Client 2 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-03 17:51:12,197 - Received from ('127.0.0.1', 52899): Wgo are you?
+
+2024-06-03 17:51:12,197 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,198 - Received from ('127.0.0.1', 52902): How are you doing?
+
+2024-06-03 17:51:12,197 - Client 9 sent to server (127.0.0.1:5555): How are you?
+2024-06-03 17:51:12,197 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,197 - Client 1 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-03 17:51:12,197 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,198 - Received from ('127.0.0.1', 52906): How are you?
+
+2024-06-03 17:51:12,198 - Client 5 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-03 17:51:12,198 - Client 8 sent to server (127.0.0.1:5555): How are you?
+2024-06-03 17:51:12,198 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,198 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,198 - Client 6 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-03 17:51:12,199 - Received from ('127.0.0.1', 52900): Wgo are you?
+
+2024-06-03 17:51:12,198 - Client 3 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-03 17:51:12,198 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,198 - Client 0 sent to server (127.0.0.1:5555): I am fine
+2024-06-03 17:51:12,199 - Received from ('127.0.0.1', 52907): How are you?
+
+2024-06-03 17:51:12,199 - Client 4 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-03 17:51:12,199 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,199 - Client 7 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-03 17:51:12,199 - Received from ('127.0.0.1', 52901): Wgo are you?
+
+2024-06-03 17:51:12,199 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,199 - Client 2 sent to server (127.0.0.1:5555): I am fine
+2024-06-03 17:51:12,199 - Client 9 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-03 17:51:12,199 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,199 - Received from ('127.0.0.1', 52903): How are you doing?
+
+2024-06-03 17:51:12,199 - Client 1 sent to server (127.0.0.1:5555): I am fine
+2024-06-03 17:51:12,200 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,200 - Client 3 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-03 17:51:12,200 - Received from ('127.0.0.1', 52908): How are you?
+
+2024-06-03 17:51:12,200 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,200 - Client 8 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-03 17:51:12,200 - Received from ('127.0.0.1', 52904): How are you doing?
+
+2024-06-03 17:51:12,200 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,200 - Client 6 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-03 17:51:12,200 - Received from ('127.0.0.1', 52905): How are you doing?
+
+2024-06-03 17:51:12,201 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,201 - Client 5 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-03 17:51:12,201 - Received from ('127.0.0.1', 52899): I am fine
+
+2024-06-03 17:51:12,201 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,201 - Client 0 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-03 17:51:12,201 - Received from ('127.0.0.1', 52902): Wgo are you?
+
+2024-06-03 17:51:12,201 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,201 - Client 4 sent to server (127.0.0.1:5555): I am fine
+2024-06-03 17:51:12,201 - Received from ('127.0.0.1', 52906): How are you doing?
+
+2024-06-03 17:51:12,202 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,202 - Client 7 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-03 17:51:12,202 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,202 - Received from ('127.0.0.1', 52907): How are you doing?
+
+2024-06-03 17:51:12,202 - Client 2 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-03 17:51:12,202 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,202 - Received from ('127.0.0.1', 52901): I am fine
+
+2024-06-03 17:51:12,202 - Client 9 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-03 17:51:12,203 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,203 - Received from ('127.0.0.1', 52903): Wgo are you?
+
+2024-06-03 17:51:12,203 - Client 1 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-03 17:51:12,203 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,203 - Received from ('127.0.0.1', 52908): How are you doing?
+
+2024-06-03 17:51:12,203 - Client 3 sent to server (127.0.0.1:5555): I am fine
+2024-06-03 17:51:12,203 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,203 - Client 8 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-03 17:51:12,203 - Received from ('127.0.0.1', 52904): Wgo are you?
+
+2024-06-03 17:51:12,203 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,203 - Client 6 sent to server (127.0.0.1:5555): I am fine
+2024-06-03 17:51:12,203 - Received from ('127.0.0.1', 52905): Wgo are you?
+
+2024-06-03 17:51:12,204 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,204 - Client 5 sent to server (127.0.0.1:5555): I am fine
+2024-06-03 17:51:12,204 - Received from ('127.0.0.1', 52899): What date is it today?
+
+2024-06-03 17:51:12,204 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,204 - Client 0 sent to server (127.0.0.1:5555): What time is it?
+2024-06-03 17:51:12,204 - Received from ('127.0.0.1', 52902): I am fine
+
+2024-06-03 17:51:12,204 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,204 - Client 4 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-03 17:51:12,204 - Received from ('127.0.0.1', 52906): Wgo are you?
+
+2024-06-03 17:51:12,205 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,205 - Client 7 sent to server (127.0.0.1:5555): I am fine
+2024-06-03 17:51:12,205 - Received from ('127.0.0.1', 52900): What date is it today?
+
+2024-06-03 17:51:12,205 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,205 - Client 2 sent to server (127.0.0.1:5555): What time is it?
+2024-06-03 17:51:12,205 - Received from ('127.0.0.1', 52907): Wgo are you?
+
+2024-06-03 17:51:12,205 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,205 - Client 9 sent to server (127.0.0.1:5555): I am fine
+2024-06-03 17:51:12,205 - Received from ('127.0.0.1', 52901): What date is it today?
+
+2024-06-03 17:51:12,205 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,206 - Client 1 sent to server (127.0.0.1:5555): What time is it?
+2024-06-03 17:51:12,206 - Received from ('127.0.0.1', 52903): I am fine
+
+2024-06-03 17:51:12,206 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,206 - Client 3 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-03 17:51:12,206 - Received from ('127.0.0.1', 52908): Wgo are you?
+
+2024-06-03 17:51:12,206 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,206 - Client 8 sent to server (127.0.0.1:5555): I am fine
+2024-06-03 17:51:12,207 - Received from ('127.0.0.1', 52904): I am fine
+
+2024-06-03 17:51:12,207 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,207 - Client 6 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-03 17:51:12,207 - Received from ('127.0.0.1', 52905): I am fine
+
+2024-06-03 17:51:12,207 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,207 - Client 5 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-03 17:51:12,207 - Received from ('127.0.0.1', 52899): What time is it?
+
+2024-06-03 17:51:12,207 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,207 - Client 0 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-03 17:51:12,207 - Received from ('127.0.0.1', 52902): What date is it today?
+
+2024-06-03 17:51:12,208 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,208 - Client 4 sent to server (127.0.0.1:5555): What time is it?
+2024-06-03 17:51:12,208 - Received from ('127.0.0.1', 52906): I am fine
+
+2024-06-03 17:51:12,208 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,208 - Client 7 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-03 17:51:12,208 - Received from ('127.0.0.1', 52900): What time is it?
+
+2024-06-03 17:51:12,209 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,209 - Client 2 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-03 17:51:12,209 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,209 - Received from ('127.0.0.1', 52901): What time is it?
+
+2024-06-03 17:51:12,209 - Client 9 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-03 17:51:12,209 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,209 - Client 1 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-03 17:51:12,209 - Received from ('127.0.0.1', 52903): What date is it today?
+
+2024-06-03 17:51:12,209 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,209 - Client 3 sent to server (127.0.0.1:5555): What time is it?
+2024-06-03 17:51:12,209 - Received from ('127.0.0.1', 52908): I am fine
+
+2024-06-03 17:51:12,210 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,210 - Client 8 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-03 17:51:12,210 - Received from ('127.0.0.1', 52904): What date is it today?
+
+2024-06-03 17:51:12,210 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,210 - Client 6 sent to server (127.0.0.1:5555): What time is it?
+
+2024-06-03 17:51:12,210 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,210 - Client 5 sent to server (127.0.0.1:5555): What time is it?
+2024-06-03 17:51:12,210 - Received from ('127.0.0.1', 52899): Where is everybody?
+
+2024-06-03 17:51:12,210 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,210 - Client 0 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-03 17:51:12,211 - Received from ('127.0.0.1', 52902): What time is it?
+
+2024-06-03 17:51:12,211 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,211 - Client 4 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-03 17:51:12,211 - Received from ('127.0.0.1', 52906): What date is it today?
+
+2024-06-03 17:51:12,211 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,211 - Client 7 sent to server (127.0.0.1:5555): What time is it?
+2024-06-03 17:51:12,211 - Received from ('127.0.0.1', 52900): Where is everybody?
+
+2024-06-03 17:51:12,211 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,211 - Client 2 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-03 17:51:12,211 - Received from ('127.0.0.1', 52907): What date is it today?
+
+2024-06-03 17:51:12,212 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,212 - Client 9 sent to server (127.0.0.1:5555): What time is it?
+2024-06-03 17:51:12,212 - Received from ('127.0.0.1', 52901): Where is everybody?
+
+2024-06-03 17:51:12,212 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,212 - Client 1 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-03 17:51:12,212 - Received from ('127.0.0.1', 52903): What time is it?
+
+2024-06-03 17:51:12,212 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,212 - Received from ('127.0.0.1', 52908): What date is it today?
+
+2024-06-03 17:51:12,212 - Client 3 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-03 17:51:12,212 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,212 - Client 8 sent to server (127.0.0.1:5555): What time is it?
+2024-06-03 17:51:12,212 - Received from ('127.0.0.1', 52904): What time is it?
+
+2024-06-03 17:51:12,213 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,213 - Client 6 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-03 17:51:12,213 - Received from ('127.0.0.1', 52905): What time is it?
+
+2024-06-03 17:51:12,213 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,213 - Client 5 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-03 17:51:12,213 - Received from ('127.0.0.1', 52899): Are you still listening?
+2024-06-03 17:51:12,213 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,213 - Received from ('127.0.0.1', 52902): Where is everybody?
+
+2024-06-03 17:51:12,213 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,214 - Client 4 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-03 17:51:12,214 - Received from ('127.0.0.1', 52906): What time is it?
+
+2024-06-03 17:51:12,214 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,214 - Client 7 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-03 17:51:12,214 - Received from ('127.0.0.1', 52900): Are you still listening?
+2024-06-03 17:51:12,214 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,214 - Received from ('127.0.0.1', 52907): What time is it?
+
+2024-06-03 17:51:12,214 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,214 - Client 9 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-03 17:51:12,214 - Received from ('127.0.0.1', 52901): Are you still listening?
+2024-06-03 17:51:12,215 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,215 - Received from ('127.0.0.1', 52903): Where is everybody?
+
+2024-06-03 17:51:12,215 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,215 - Client 3 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-03 17:51:12,215 - Received from ('127.0.0.1', 52908): What time is it?
+
+2024-06-03 17:51:12,215 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,215 - Client 8 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-03 17:51:12,215 - Received from ('127.0.0.1', 52904): Where is everybody?
+
+2024-06-03 17:51:12,215 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,216 - Client 6 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-03 17:51:12,216 - Received from ('127.0.0.1', 52905): Where is everybody?
+
+2024-06-03 17:51:12,216 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,216 - Received from ('127.0.0.1', 52902): Are you still listening?
+2024-06-03 17:51:12,216 - Client 5 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-03 17:51:12,216 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,216 - Received from ('127.0.0.1', 52906): Where is everybody?
+
+2024-06-03 17:51:12,216 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,216 - Client 7 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-03 17:51:12,216 - Received from ('127.0.0.1', 52907): Where is everybody?
+
+2024-06-03 17:51:12,217 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,217 - Client 9 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-03 17:51:12,217 - Received from ('127.0.0.1', 52903): Are you still listening?
+2024-06-03 17:51:12,217 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,217 - Received from ('127.0.0.1', 52908): Where is everybody?
+
+2024-06-03 17:51:12,217 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,217 - Client 8 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-03 17:51:12,217 - Received from ('127.0.0.1', 52904): Are you still listening?
+2024-06-03 17:51:12,217 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,218 - Received from ('127.0.0.1', 52905): Are you still listening?
+2024-06-03 17:51:12,218 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,218 - Received from ('127.0.0.1', 52906): Are you still listening?
+2024-06-03 17:51:12,218 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,218 - Received from ('127.0.0.1', 52907): Are you still listening?
+2024-06-03 17:51:12,218 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-03 17:51:12,218 - Received from ('127.0.0.1', 52908): Are you still listening?
+2024-06-03 17:51:12,219 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,362 - Client 0 sent to server (127.0.0.1:5555): Hello!
+2024-06-07 15:35:40,362 - Received from ('127.0.0.1', 55730): Hello!
+
+o!
+2024-06-07 15:35:40,363 - Client 2 sent to server (127.0.0.1:5555): Hello!
+2024-06-07 15:35:40,363 - Received from ('127.0.0.1', 55731): Hello!
+
+2024-06-07 15:35:40,363 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,363 - Received from ('127.0.0.1', 55732): Hello!
+
+2024-06-07 15:35:40,364 - Received from ('127.0.0.1', 55733): Hello!
+
+2024-06-07 15:35:40,363 - Client 4 sent to server (127.0.0.1:5555): Hello!
+2024-06-07 15:35:40,364 - Received from ('127.0.0.1', 55734): Hello!
+
+2024-06-07 15:35:40,364 - Client 3 sent to server (127.0.0.1:5555): Hello!
+2024-06-07 15:35:40,364 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,365 - Received from ('127.0.0.1', 55730): How are you?
+
+2024-06-07 15:35:40,365 - Received from ('127.0.0.1', 55735): Hello!
+
+2024-06-07 15:35:40,364 - Client 0 sent to server (127.0.0.1:5555): How are you?
+2024-06-07 15:35:40,366 - Received from ('127.0.0.1', 55731): How are you?
+
+2024-06-07 15:35:40,364 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,366 - Received from ('127.0.0.1', 55736): Hello!
+
+2024-06-07 15:35:40,365 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,365 - Client 7 sent to server (127.0.0.1:5555): Hello!
+2024-06-07 15:35:40,367 - Received from ('127.0.0.1', 55737): Hello!
+
+2024-06-07 15:35:40,366 - Client 6 sent to server (127.0.0.1:5555): Hello!
+2024-06-07 15:35:40,366 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,367 - Received from ('127.0.0.1', 55732): How are you?
+
+2024-06-07 15:35:40,366 - Client 1 sent to server (127.0.0.1:5555): How are you?
+2024-06-07 15:35:40,366 - Client 5 sent to server (127.0.0.1:5555): Hello!
+2024-06-07 15:35:40,367 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,366 - Client 2 sent to server (127.0.0.1:5555): How are you?
+2024-06-07 15:35:40,368 - Received from ('127.0.0.1', 55738): Hello!
+
+2024-06-07 15:35:40,367 - Client 8 sent to server (127.0.0.1:5555): Hello!
+2024-06-07 15:35:40,368 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,367 - Client 9 sent to server (127.0.0.1:5555): Hello!
+2024-06-07 15:35:40,368 - Received from ('127.0.0.1', 55739): Hello!
+
+2024-06-07 15:35:40,367 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,367 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,367 - Client 3 sent to server (127.0.0.1:5555): How are you?
+2024-06-07 15:35:40,367 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,366 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,368 - Client 5 sent to server (127.0.0.1:5555): How are you?
+2024-06-07 15:35:40,368 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,369 - Received from ('127.0.0.1', 55733): How are you?
+
+2024-06-07 15:35:40,367 - Client 4 sent to server (127.0.0.1:5555): How are you?
+2024-06-07 15:35:40,369 - Received from ('127.0.0.1', 55735): How are you?
+
+2024-06-07 15:35:40,368 - Client 8 sent to server (127.0.0.1:5555): How are you?
+2024-06-07 15:35:40,368 - Client 6 sent to server (127.0.0.1:5555): How are you?
+2024-06-07 15:35:40,368 - Client 7 sent to server (127.0.0.1:5555): How are you?
+2024-06-07 15:35:40,369 - Client 1 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-07 15:35:40,369 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,369 - Client 0 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-07 15:35:40,369 - Client 2 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-07 15:35:40,370 - Received from ('127.0.0.1', 55737): How are you?
+
+2024-06-07 15:35:40,369 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,370 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,370 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,370 - Client 9 sent to server (127.0.0.1:5555): How are you?
+2024-06-07 15:35:40,370 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,370 - Client 3 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-07 15:35:40,370 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,371 - Client 4 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-07 15:35:40,371 - Received from ('127.0.0.1', 55730): How are you doing?
+
+g?
+2024-06-07 15:35:40,371 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,372 - Received from ('127.0.0.1', 55732): How are you doing?
+
+2024-06-07 15:35:40,371 - Client 8 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-07 15:35:40,372 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,372 - Client 6 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-07 15:35:40,372 - Received from ('127.0.0.1', 55739): How are you?
+
+2024-06-07 15:35:40,372 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,372 - Client 7 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-07 15:35:40,372 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,372 - Client 1 sent to server (127.0.0.1:5555): Wgo are you?
+
+2024-06-07 15:35:40,373 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,373 - Client 2 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-07 15:35:40,373 - Client 0 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-07 15:35:40,373 - Received from ('127.0.0.1', 55734): How are you doing?
+
+2024-06-07 15:35:40,373 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,373 - Client 9 sent to server (127.0.0.1:5555): How are you doing?
+2024-06-07 15:35:40,374 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,374 - Client 4 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-07 15:35:40,374 - Received from ('127.0.0.1', 55735): How are you doing?
+
+2024-06-07 15:35:40,374 - Client 3 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-07 15:35:40,374 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,374 - Received from ('127.0.0.1', 55738): How are you doing?
+
+2024-06-07 15:35:40,374 - Client 5 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-07 15:35:40,375 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,375 - Client 8 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-07 15:35:40,375 - Received from ('127.0.0.1', 55737): How are you doing?
+
+2024-06-07 15:35:40,375 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,375 - Client 6 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-07 15:35:40,375 - Received from ('127.0.0.1', 55736): How are you doing?
+
+2024-06-07 15:35:40,375 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,376 - Client 7 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-07 15:35:40,376 - Received from ('127.0.0.1', 55731): Wgo are you?
+
+2024-06-07 15:35:40,376 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,376 - Received from ('127.0.0.1', 55730): Wgo are you?
+
+2024-06-07 15:35:40,376 - Client 1 sent to server (127.0.0.1:5555): I am fine
+2024-06-07 15:35:40,376 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,376 - Client 0 sent to server (127.0.0.1:5555): I am fine
+2024-06-07 15:35:40,376 - Received from ('127.0.0.1', 55732): Wgo are you?
+
+2024-06-07 15:35:40,377 - Received from ('127.0.0.1', 55739): How are you doing?
+
+2024-06-07 15:35:40,377 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,377 - Client 2 sent to server (127.0.0.1:5555): I am fine
+2024-06-07 15:35:40,377 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,377 - Client 9 sent to server (127.0.0.1:5555): Wgo are you?
+2024-06-07 15:35:40,377 - Received from ('127.0.0.1', 55733): Wgo are you?
+
+2024-06-07 15:35:40,377 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,377 - Client 3 sent to server (127.0.0.1:5555): I am fine
+2024-06-07 15:35:40,378 - Received from ('127.0.0.1', 55734): Wgo are you?
+
+2024-06-07 15:35:40,378 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,378 - Client 4 sent to server (127.0.0.1:5555): I am fine
+2024-06-07 15:35:40,378 - Received from ('127.0.0.1', 55735): Wgo are you?
+
+2024-06-07 15:35:40,378 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,378 - Client 5 sent to server (127.0.0.1:5555): I am fine
+2024-06-07 15:35:40,379 - Received from ('127.0.0.1', 55738): Wgo are you?
+
+2024-06-07 15:35:40,379 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,379 - Client 8 sent to server (127.0.0.1:5555): I am fine
+2024-06-07 15:35:40,379 - Received from ('127.0.0.1', 55737): Wgo are you?
+
+2024-06-07 15:35:40,379 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,379 - Client 6 sent to server (127.0.0.1:5555): I am fine
+2024-06-07 15:35:40,380 - Received from ('127.0.0.1', 55736): Wgo are you?
+
+2024-06-07 15:35:40,380 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,380 - Client 7 sent to server (127.0.0.1:5555): I am fine
+2024-06-07 15:35:40,380 - Received from ('127.0.0.1', 55731): I am fine
+
+2024-06-07 15:35:40,380 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,380 - Client 1 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-07 15:35:40,381 - Received from ('127.0.0.1', 55730): I am fine
+
+2024-06-07 15:35:40,381 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,381 - Client 0 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-07 15:35:40,381 - Received from ('127.0.0.1', 55732): I am fine
+
+2024-06-07 15:35:40,381 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,381 - Client 2 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-07 15:35:40,382 - Received from ('127.0.0.1', 55739): Wgo are you?
+
+2024-06-07 15:35:40,382 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,382 - Client 9 sent to server (127.0.0.1:5555): I am fine
+2024-06-07 15:35:40,382 - Received from ('127.0.0.1', 55733): I am fine
+
+2024-06-07 15:35:40,382 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,382 - Client 3 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-07 15:35:40,383 - Received from ('127.0.0.1', 55734): I am fine
+
+2024-06-07 15:35:40,383 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,383 - Received from ('127.0.0.1', 55735): I am fine
+
+2024-06-07 15:35:40,383 - Client 4 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-07 15:35:40,383 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,383 - Client 5 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-07 15:35:40,383 - Received from ('127.0.0.1', 55738): I am fine
+
+2024-06-07 15:35:40,383 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,383 - Client 8 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-07 15:35:40,383 - Received from ('127.0.0.1', 55737): I am fine
+
+2024-06-07 15:35:40,384 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,384 - Client 6 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-07 15:35:40,384 - Received from ('127.0.0.1', 55736): I am fine
+
+2024-06-07 15:35:40,384 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,384 - Client 7 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-07 15:35:40,384 - Received from ('127.0.0.1', 55731): What date is it today?
+
+2024-06-07 15:35:40,384 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,384 - Client 1 sent to server (127.0.0.1:5555): What time is it?
+2024-06-07 15:35:40,384 - Received from ('127.0.0.1', 55730): What date is it today?
+
+2024-06-07 15:35:40,384 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,385 - Client 0 sent to server (127.0.0.1:5555): What time is it?
+2024-06-07 15:35:40,385 - Received from ('127.0.0.1', 55732): What date is it today?
+
+2024-06-07 15:35:40,385 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,385 - Client 2 sent to server (127.0.0.1:5555): What time is it?
+2024-06-07 15:35:40,385 - Received from ('127.0.0.1', 55739): I am fine
+
+2024-06-07 15:35:40,385 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,385 - Client 9 sent to server (127.0.0.1:5555): What date is it today?
+2024-06-07 15:35:40,385 - Received from ('127.0.0.1', 55733): What date is it today?
+
+2024-06-07 15:35:40,385 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,385 - Client 3 sent to server (127.0.0.1:5555): What time is it?
+2024-06-07 15:35:40,385 - Received from ('127.0.0.1', 55734): What date is it today?
+
+2024-06-07 15:35:40,386 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,386 - Client 4 sent to server (127.0.0.1:5555): What time is it?
+2024-06-07 15:35:40,386 - Received from ('127.0.0.1', 55735): What date is it today?
+
+2024-06-07 15:35:40,386 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,386 - Client 5 sent to server (127.0.0.1:5555): What time is it?
+2024-06-07 15:35:40,386 - Received from ('127.0.0.1', 55738): What date is it today?
+
+2024-06-07 15:35:40,386 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,387 - Client 8 sent to server (127.0.0.1:5555): What time is it?
+2024-06-07 15:35:40,387 - Received from ('127.0.0.1', 55737): What date is it today?
+
+2024-06-07 15:35:40,387 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,387 - Client 6 sent to server (127.0.0.1:5555): What time is it?
+2024-06-07 15:35:40,387 - Received from ('127.0.0.1', 55736): What date is it today?
+
+2024-06-07 15:35:40,387 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,387 - Client 7 sent to server (127.0.0.1:5555): What time is it?
+2024-06-07 15:35:40,387 - Received from ('127.0.0.1', 55731): What time is it?
+
+2024-06-07 15:35:40,387 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,387 - Client 1 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-07 15:35:40,387 - Received from ('127.0.0.1', 55730): What time is it?
+
+2024-06-07 15:35:40,388 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,388 - Received from ('127.0.0.1', 55732): What time is it?
+
+2024-06-07 15:35:40,388 - Client 0 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-07 15:35:40,388 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,388 - Client 2 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-07 15:35:40,388 - Received from ('127.0.0.1', 55739): What date is it today?
+
+2024-06-07 15:35:40,388 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,388 - Client 9 sent to server (127.0.0.1:5555): What time is it?
+2024-06-07 15:35:40,388 - Received from ('127.0.0.1', 55733): What time is it?
+
+2024-06-07 15:35:40,389 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,389 - Client 3 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-07 15:35:40,389 - Received from ('127.0.0.1', 55734): What time is it?
+
+2024-06-07 15:35:40,389 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,389 - Received from ('127.0.0.1', 55735): What time is it?
+
+2024-06-07 15:35:40,389 - Client 4 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-07 15:35:40,389 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,389 - Client 5 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-07 15:35:40,389 - Received from ('127.0.0.1', 55738): What time is it?
+
+2024-06-07 15:35:40,389 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,389 - Client 8 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-07 15:35:40,390 - Received from ('127.0.0.1', 55737): What time is it?
+
+2024-06-07 15:35:40,390 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,390 - Client 6 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-07 15:35:40,390 - Received from ('127.0.0.1', 55736): What time is it?
+
+2024-06-07 15:35:40,390 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,390 - Client 7 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-07 15:35:40,390 - Received from ('127.0.0.1', 55731): Where is everybody?
+
+2024-06-07 15:35:40,390 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,390 - Received from ('127.0.0.1', 55730): Where is everybody?
+
+2024-06-07 15:35:40,390 - Client 1 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-07 15:35:40,390 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,391 - Client 0 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-07 15:35:40,391 - Received from ('127.0.0.1', 55732): Where is everybody?
+
+2024-06-07 15:35:40,391 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,391 - Client 2 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-07 15:35:40,391 - Received from ('127.0.0.1', 55739): What time is it?
+
+2024-06-07 15:35:40,391 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,391 - Client 9 sent to server (127.0.0.1:5555): Where is everybody?
+2024-06-07 15:35:40,391 - Received from ('127.0.0.1', 55733): Where is everybody?
+
+2024-06-07 15:35:40,391 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,392 - Client 3 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-07 15:35:40,392 - Received from ('127.0.0.1', 55734): Where is everybody?
+
+2024-06-07 15:35:40,392 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,392 - Client 4 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-07 15:35:40,392 - Received from ('127.0.0.1', 55735): Where is everybody?
+
+2024-06-07 15:35:40,392 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,392 - Client 5 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-07 15:35:40,392 - Received from ('127.0.0.1', 55738): Where is everybody?
+
+2024-06-07 15:35:40,392 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,392 - Client 8 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-07 15:35:40,392 - Received from ('127.0.0.1', 55737): Where is everybody?
+
+2024-06-07 15:35:40,393 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,393 - Client 6 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-07 15:35:40,393 - Received from ('127.0.0.1', 55736): Where is everybody?
+
+2024-06-07 15:35:40,393 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,393 - Received from ('127.0.0.1', 55731): Are you still listening?
+2024-06-07 15:35:40,393 - Client 7 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-07 15:35:40,393 - Client 1 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,393 - Received from ('127.0.0.1', 55730): Are you still listening?
+2024-06-07 15:35:40,394 - Client 0 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,394 - Received from ('127.0.0.1', 55732): Are you still listening?
+2024-06-07 15:35:40,394 - Client 2 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,394 - Received from ('127.0.0.1', 55739): Where is everybody?
+
+2024-06-07 15:35:40,394 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,394 - Client 9 sent to server (127.0.0.1:5555): Are you still listening?
+2024-06-07 15:35:40,394 - Received from ('127.0.0.1', 55733): Are you still listening?
+2024-06-07 15:35:40,395 - Client 3 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,395 - Received from ('127.0.0.1', 55734): Are you still listening?
+2024-06-07 15:35:40,395 - Client 4 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,395 - Received from ('127.0.0.1', 55735): Are you still listening?
+2024-06-07 15:35:40,395 - Client 5 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,395 - Received from ('127.0.0.1', 55738): Are you still listening?
+2024-06-07 15:35:40,396 - Client 8 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,396 - Received from ('127.0.0.1', 55737): Are you still listening?
+2024-06-07 15:35:40,396 - Client 6 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,396 - Received from ('127.0.0.1', 55736): Are you still listening?
+2024-06-07 15:35:40,396 - Client 7 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
+2024-06-07 15:35:40,396 - Received from ('127.0.0.1', 55739): Are you still listening?
+2024-06-07 15:35:40,396 - Client 9 received from server (127.0.0.1:5555:RESPONSE FROM SERVER)
